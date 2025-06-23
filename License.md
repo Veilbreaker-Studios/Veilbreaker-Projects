@@ -1,6 +1,6 @@
 # Veilbreaker Studios End User License Agreement (EULA)
 
-The latest version of this license can be found at: [insert your documentation URL here]. This license applies to all Veilbreaker Studios mods and related assets for Bohemia Interactive's Arma Reforger.
+The latest version of this license can be found at: [https://github.com/VeilbreakerStudios/Veilbreaker-Projects/blob/main/License.md]. This license applies to all Veilbreaker Studios mods and related assets for Bohemia Interactive's Arma Reforger.
 
 ---
 
