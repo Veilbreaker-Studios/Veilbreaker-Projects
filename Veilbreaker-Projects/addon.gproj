@@ -1,0 +1,8 @@
+GameProject {
+ ID "VeilbreakerProjects"
+ GUID "66151E0FE3F2E2C2"
+ TITLE "Veilbreaker-Projects"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
