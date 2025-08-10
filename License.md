@@ -1,89 +1,90 @@
-# Veilbreaker Studios End User License Agreement (EULA)
+## Veilbreaker Studios End User License Agreement (EULA)
 
-The latest version of this license can be found at: [https://github.com/VeilbreakerStudios/Veilbreaker-Projects/blob/main/License.md]. This license applies to all Veilbreaker Studios mods and related assets for Bohemia Interactive's Arma Reforger.
+📄 Latest version:
+🔗 https://github.com/VeilbreakerStudios/Veilbreaker-Projects/blob/main/License.md
+Applies to all Veilbreaker Studios mods/assets for Arma Reforger.
 
 ---
 
 ## Disclaimer
-
-All software, models, assets, and related materials ("Work") are provided **"AS IS,"** without any warranties, expressed or implied. Veilbreaker Studios disclaims all liability for damages resulting from use or misuse of the Work, including but not limited to direct, indirect, incidental, or consequential damages. Use of the Work in any critical applications, including but not limited to situations that could cause personal injury or property damage, is at your own risk.
+All software, models, assets, and related materials ("Work") are provided "AS IS" without warranties. Veilbreaker Studios disclaims liability for damages from use or misuse. Use in critical or hazardous situations is at your own risk.
 
 ---
 
-## License Grant and Restrictions
+## License Grant & Restrictions
+By downloading or using any Veilbreaker Studios mods, you agree to:
 
-By downloading or using any Veilbreaker Studios mods, you agree to the terms below:
+• Non-Commercial Use Only
+Personal use only. Monetized servers, donation rewards, or paid gameplay advantages are not allowed.
 
-- **Non-Commercial Use Only:**  
-  The Work is licensed solely for personal, non-commercial use within Arma Reforger. Commercial use, including monetized servers, donation reward systems, or any form of payment in exchange for gameplay advantages, is strictly prohibited.
+• Attribution Required
+Proper credit must be given to Veilbreaker Studios whenever the Work or derivatives are shared publicly.
 
-- **Attribution Required:**  
-  Proper credit must be given to Veilbreaker Studios whenever the Work or any derivative content is shared or used publicly.
+• No Unauthorized Distribution
+Redistribution is only allowed through official channels or with permission.
 
-- **No Unauthorized Distribution:**  
-  The Work may not be distributed independently or as part of other packages except through official Veilbreaker Studios channels or with explicit permission.
+• Derivative Works
+Mods/retextures are allowed if they:
+  
+Are public and link to this license
+Remain non-commercial
+Don’t harm Veilbreaker Studios' reputation
+Contain no hate, extremism, porn, or illegal content
 
-- **Derivative Works:**  
-  Modifications, retextures, or derivative works are permitted only if they:  
-    - Are publicly available and clearly linked back to this license,  
-    - Maintain the non-commercial restriction,  
-    - Do not harm the reputation of Veilbreaker Studios,  
-    - Do not contain content promoting hate, extremism, pornography, or any illegal activities.
-
-- **No Military Training Use:**  
-  The Work is not licensed for military or defense training purposes.
+• No Military Training Use
+Use in military/defense training is prohibited.
 
 ---
 
 ## Content Restrictions
+🚫 No use of Veilbreaker Studios assets in real-world conflict scenarios, including:
 
-Veilbreaker Studios does not support or permit the use of its assets in any depiction or simulation of ongoing real-world conflicts. Specifically:
+• The Russian invasion of Ukraine
+• The Israeli-Palestinian conflict
 
-- No use of Veilbreaker Studios assets in scenarios portraying the current conflict involving Russian forces in Ukraine.
-
-- No use in representations of the Israeli-Palestinian conflict.
-
-Any violation of this clause will result in immediate legal action, including takedown requests and reporting to platform owners.
+Violations will result in takedown actions and possible legal enforcement.
 
 ---
 
-## Enforcement and Limitations
+## Original Creator Rights
+Veilbreaker Studios respects individual creators’ IP:
 
-Veilbreaker Studios reserves the right to revoke licenses and enforce this agreement, including but not limited to:
+✔️ All contributed assets (models, scripts, etc.) remain property of the original creator.
+✔️ Veilbreaker Studios does not claim ownership.
+✔️ If the studio disbands, creators may freely reuse their contributions.
+✔️ No contributed asset will be sold, repurposed, or reused outside project scope without permission.
 
-- Removal of infringing content from hosting platforms.
+---
 
-- Legal action to protect intellectual property and brand integrity.
+## Enforcement & Limitations
+Veilbreaker Studios may:
 
-Repeated violations or breaches of this license by individuals or groups may lead to permanent bans from using, modifying, or distributing Veilbreaker Studios content.
+• Revoke licenses
+• Remove infringing content
+• Take legal action for violations
+
+⚠️ Repeated violations may result in permanent bans from using or distributing Veilbreaker content.
 
 ---
 
 ## Examples of Prohibited Commercial Activities
+❌ These are strictly forbidden:
 
-The following, though not exhaustive, are examples of strictly forbidden commercial exploitation of the Work:
-
-- Charging fees for server access or priority connections.
-
-- Selling in-game items, cosmetics, or gameplay advantages.
-
-- Advertising or product placements tied to Veilbreaker Studios content.
-
-- Organizing donation campaigns where contributors receive in-game rewards or benefits.
+• Charging for access or server slots
+• Selling in-game items or perks
+• Ads, sponsorships, or product placements
+• Donation rewards tied to gameplay
 
 ---
 
-## Contact and Permissions
+## Contact & Permissions
+📬 For licensing exceptions or questions:
+✉️ veilbreakerstudios@gmail.com
 
-Any requests for exceptions, commercial licensing, or clarification should be directed to:  
-[veilbreakerstudios@gmail.com]
-
-Veilbreaker Studios retains the right to amend this license at any time. Continued use of our Work after changes constitutes acceptance of the new terms.
-
----
-
-Thank you for respecting our work and supporting the community fairly and legally.
+🔄 This license may be updated at any time. Continued use = acceptance of new terms.
 
 ---
 
-*Veilbreaker Studios – Crafting quality mods with integrity.*
+🙏 Thanks for respecting our work and supporting the community fairly and legally.
+
+## Veilbreaker Studios – Crafting quality mods with integrity.
