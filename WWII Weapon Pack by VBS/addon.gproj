@@ -1,0 +1,8 @@
+GameProject {
+ ID "WWIIWeaponPackbyVBS"
+ GUID "65E5386AC1076952"
+ TITLE "WWII Weapon Pack by VBS"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
